@@ -1,0 +1,11 @@
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\bin\Debug\netcoreapp2.0\EntityWebApi.deps.json
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\bin\Debug\netcoreapp2.0\EntityWebApi.runtimeconfig.json
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\bin\Debug\netcoreapp2.0\EntityWebApi.runtimeconfig.dev.json
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\bin\Debug\netcoreapp2.0\EntityWebApi.dll
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\obj\Debug\netcoreapp2.0\EntityWebApi.csproj.CoreCompileInputs.cache
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\obj\Debug\netcoreapp2.0\EntityWebApi.AssemblyInfoInputs.cache
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\obj\Debug\netcoreapp2.0\EntityWebApi.AssemblyInfo.cs
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\obj\Debug\netcoreapp2.0\EntityWebApi.csprojAssemblyReference.cache
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\bin\Debug\netcoreapp2.0\EntityWebApi.pdb
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\obj\Debug\netcoreapp2.0\EntityWebApi.dll
+c:\users\srihari.haridasan\source\repos\EntityWebApi\EntityWebApi\obj\Debug\netcoreapp2.0\EntityWebApi.pdb
